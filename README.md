@@ -20,7 +20,11 @@ Let's Begin...🚀
 
 #### 1. Read articles over Time and space complexity.
 
-#### 2. Solved 5 questions over time complexity and added to the repo under Day 01 folder.
+#### 2. Solved 5 questions over time complexity from InterviwBit.
+* [LOOP_CMPL](https://www.interviewbit.com/problems/loopcmpl/?utm_medium=referral&utm_source=https://www.interviewbit.com/practice/?utm_medium=referral&utm_source=https://www.interviewbit.com/courses/fast-track-java/data-structures/)
+* [NESTED_CMPL3](https://www.interviewbit.com/problems/nestedcmpl3/?utm_medium=referral&utm_source=https://www.interviewbit.com/practice/?utm_medium=referral&utm_source=https://www.interviewbit.com/courses/fast-track-java/data-structures/)
+* [AMORTIZED1](https://www.interviewbit.com/problems/amortized1/?utm_medium=referral&utm_source=https://www.interviewbit.com/practice/?utm_medium=referral&utm_source=https://www.interviewbit.com/courses/fast-track-java/data-structures/)
+* [REC_CMPL2](https://www.interviewbit.com/problems/reccmpl2/?utm_medium=referral&utm_source=https://www.interviewbit.com/practice/?utm_medium=referral&utm_source=https://www.interviewbit.com/courses/fast-track-java/data-structures/)
 
 
 
