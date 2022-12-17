@@ -6,8 +6,9 @@ I'll add my daily practice of DSA in this repo in order to maintain consistency�
 Let's Begin...🚀 
 </h3>
 <p align="center">
-<img align="center" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" width="500" height="350">
+<img align="center" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="500" height="350">
 </p>
+<br>
 
 ## ✔Day 00 :
 
