@@ -1,2 +1,1 @@
-# Daily-Web-Development-Practice
-In this repository, I will upload my daily learning of web development
+<h2 align="center"> 🤩🚀 100-Days-of-DSA 🚀🤩 </br> ✨DSA using JAVA✨ </h2>
