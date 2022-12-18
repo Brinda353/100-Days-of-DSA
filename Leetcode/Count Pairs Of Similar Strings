@@ -1,0 +1,37 @@
+//problem link : https://leetcode.com/problems/count-pairs-of-similar-strings/description/
+
+class Solution {
+    public int similarPairs(String[] words) {
+        int count=0;
+        for(int i=0;i<words.length;i++){
+            for(int j=i+1;j<words.length;j++){
+                String w1 = words[i];
+                String w2 = words[j];
+                Set<Character> set1 = new HashSet<>();
+                Set<Character> set2 = new HashSet<>();
+
+                for(int m=0;m<w1.length();m++){
+                    set1.add(w1.charAt(m));
+                }
+                for(int n=0;n<w2.length();n++){
+                    set2.add(w2.charAt(n));
+                }
+
+                boolean match = true;
+                for(int x=0;x<w1.length();x++){
+                    if(!set2.contains(w1.charAt(x))){
+                        match = false;
+                    }
+                }
+                for(int y=0;y<w2.length();y++){
+                    if(!set1.contains(w2.charAt(y))){
+                        match = false;
+                    }
+                }
+                if(match)
+                count++;
+            }
+        }
+        return count;
+    }
+}
