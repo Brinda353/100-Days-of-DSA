@@ -1,0 +1,23 @@
+// problem link : https://www.interviewbit.com/problems/wave-array/?utm_medium=referral&utm_source=https://www.interviewbit.com/practice/?utm_medium=referral&utm_source=https://www.interviewbit.com/practice/?utm_medium=referral&utm_source=https://www.interviewbit.com/practice/?utm_medium=referral&utm_source=https://www.interviewbit.com/courses/fast-track-java/data-structures/
+
+public class Solution {
+    public int[] wave(int[] A) {
+        
+        int n = A.length;
+        int[] ans = new int[n];
+        
+        Arrays.sort(A);
+        
+        int x=0;
+        for(int i=0;i<n;i=i+2){
+            if(i<(n-1)){
+                ans[x++] = A[i+1];
+                ans[x++] = A[i];
+            }
+            if(i==(n-1)){
+                ans[x++] = A[i];
+            }
+        }
+        return ans;
+    }
+}
