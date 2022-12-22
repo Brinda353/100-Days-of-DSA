@@ -26,6 +26,18 @@ Let's Begin...🚀
 * [NESTED_CMPL3](https://www.interviewbit.com/problems/nestedcmpl3/?utm_medium=referral&utm_source=https://www.interviewbit.com/practice/?utm_medium=referral&utm_source=https://www.interviewbit.com/courses/fast-track-java/data-structures/)
 * [AMORTIZED1](https://www.interviewbit.com/problems/amortized1/?utm_medium=referral&utm_source=https://www.interviewbit.com/practice/?utm_medium=referral&utm_source=https://www.interviewbit.com/courses/fast-track-java/data-structures/)
 * [REC_CMPL2](https://www.interviewbit.com/problems/reccmpl2/?utm_medium=referral&utm_source=https://www.interviewbit.com/practice/?utm_medium=referral&utm_source=https://www.interviewbit.com/courses/fast-track-java/data-structures/)
+* [WHILE_CMPL](https://www.interviewbit.com/problems/whilecmpl/?utm_medium=referral&utm_source=https://www.interviewbit.com/practice/?utm_medium=referral&utm_source=https://www.interviewbit.com/practice/?utm_medium=referral&utm_source=https://www.interviewbit.com/courses/fast-track-java/data-structures/)
+
+
+## ✔Day 02 :
+
+#### 1. Appeared in codeforces contest-1772 and attempted a question (but couldn't solve at that time🙁).
+* [A+B?](https://codeforces.com/contest/1772/problem/A)
+
+#### 2. Solved a question from Leetcode.
+* [Count Pairs Of Similar Strings](https://github.com/Brinda353/100-Days-of-DSA/blob/main/Leetcode/Count%20Pairs%20Of%20Similar%20Strings)
+* [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/contest/weekly-contest-324/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) (Attempted only🙃)
+
 
 
 
