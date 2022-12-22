@@ -1,0 +1,20 @@
+// problem link : https://www.interviewbit.com/problems/max-min-05542f2f-69aa-4253-9cc7-84eb7bf739c4/?utm_medium=referral&utm_source=https://www.interviewbit.com/practice/?utm_medium=referral&utm_source=https://www.interviewbit.com/practice/?utm_medium=referral&utm_source=https://www.interviewbit.com/practice/?utm_medium=referral&utm_source=https://www.interviewbit.com/courses/fast-track-java/data-structures/
+
+public class Solution {
+    public int solve(int[] A) {
+        
+        int n = A.length;
+        int max = A[0];
+        int min = A[0];
+        
+        for(int i=1;i<n;i++){
+            if(A[i]>max)
+                max = A[i];
+            if(A[i]<min)
+                min = A[i];
+        }
+        
+        int sum = max+min;
+        return sum;
+    }
+}
