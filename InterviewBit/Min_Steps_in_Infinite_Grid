@@ -1,4 +1,4 @@
-// problem link : https://www.interviewbit.com/problems/min-steps-in-infinite-grid/?utm_medium=referral&utm_source=https://www.interviewbit.com/practice/?utm_medium=referral&utm_source=https://www.interviewbit.com/practice/?utm_medium=referral&utm_source=https://www.interviewbit.com/practice/?utm_medium=referral&utm_source=https://www.interviewbit.com/courses/fast-track-java/data-structures/
+// problem link : https://www.interviewbit.com/problems/min-steps-in-infinite-grid/
 
 public class Solution {
     public int coverPoints(int[] A, int[] B) {
