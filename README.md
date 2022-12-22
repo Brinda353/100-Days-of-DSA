@@ -39,6 +39,16 @@ Let's Begin...🚀
 * [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/contest/weekly-contest-324/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) (Attempted only🙃)
 
 
+## ✔Day 03 :
+
+#### Solved 5 questions of Arrays and added it to the repo under InterviewBit folder.
+* [Find Duplicate in Array](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Find_Duplicate_in_Array)
+* [Make Equal Elements Array](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Make_Equal_Elements_Array)
+* [Max Min](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Max_MIn)
+* [Min Steps In Infinite Grid](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Min_Steps_in_Infinite_Grid)
+* [Wave Array](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Wave_Array)
+
+
 
 
 
