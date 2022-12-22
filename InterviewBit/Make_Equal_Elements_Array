@@ -1,0 +1,16 @@
+//problem link : https://www.interviewbit.com/problems/make-equal-elements-array/
+
+public class Solution {
+    public int solve(int[] A, int B) {
+        
+        int n = A.length;
+        Arrays.sort(A);
+        
+        if((A[0]+B)==(A[n-1]-B)){
+            return 1;
+        }
+        
+        else 
+        return 0;
+    }
+}
