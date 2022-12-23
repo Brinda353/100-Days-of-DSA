@@ -1,0 +1,25 @@
+// problem link : https://www.interviewbit.com/problems/occurence-of-each-number/
+
+public class Solution {
+    public int[] findOccurences(int[] A) {
+        int n=A.length;
+        Arrays.sort(A);
+        ArrayList<Integer>res=new ArrayList<>();
+        int count=1;
+        for(int i=1;i<n;i++)
+        {
+            if(A[i]!=A[i-1])
+            {
+                res.add(count);
+                count=1;
+            }
+            else
+            count++;
+        }
+        res.add(count);
+        int ans[]=new int[res.size()];
+        for(int i=0;i<ans.length;i++)
+        ans[i]=res.get(i);
+        return ans;
+    }
+}
