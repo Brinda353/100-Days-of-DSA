@@ -1,0 +1,12 @@
+// problem link : https://www.interviewbit.com/problems/trailing-zeros-in-factorial/
+
+public class Solution {
+    public int trailingZeroes(int A) {
+        
+        int c=0;
+        for(int x=5;x<=A;x=x*5){   // Learnt a completely new approach to solve the problem with minimal time complexity
+            c = c+(A/x);
+        }
+        return c;
+    }
+}
