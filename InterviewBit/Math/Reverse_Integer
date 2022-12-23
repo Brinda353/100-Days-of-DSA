@@ -1,0 +1,24 @@
+// problem link : https://www.interviewbit.com/problems/reverse-integer/
+
+public class Solution {
+    public int reverse(int A) {
+            int B = A;
+            A=Math.abs(A);
+            long temp=0;
+           
+            while(A!=0){
+                temp = temp*10 + A%10;
+                A=A/10; 
+            }
+            
+            if((temp>Integer.MAX_VALUE) || (temp<Integer.MIN_VALUE))
+            return 0;
+            
+            if(B<0){
+            return -(int)temp;
+            }
+            else{
+            return (int)temp;
+            }
+    }
+}
