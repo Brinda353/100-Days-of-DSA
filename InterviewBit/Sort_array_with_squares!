@@ -1,0 +1,12 @@
+// problem link : https://www.interviewbit.com/problems/sort-array-with-squares/
+
+public class Solution {
+    public int[] solve(int[] A) {
+        int n = A.length;
+        for(int i=0;i<n;i++){
+            A[i] = A[i]*A[i];
+        }
+        Arrays.sort(A);
+        return A;
+    }
+}
