@@ -49,7 +49,16 @@ Let's Begin...🚀
 * [Wave Array](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Wave_Array)
 
 
+## ✔Day 04 :
 
+#### 1. Read articles on Arrays.
+
+#### 2. Solved questions of Arrays and basic maths and added it to the repo.
+* [Occurenece Of Each Number](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Occurence_of_Each_Number)
+* [Sort Array With Squares!](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Sort_array_with_squares!)
+* [FizzBuzz](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Math/FizzBuzz)
+* [Reverse Integer](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Math/Reverse_Integer)
+* [Trailing Zero In Factorial](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Math/Trailing_Zero_in_Factorial)
 
 
 
