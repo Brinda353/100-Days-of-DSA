@@ -61,4 +61,10 @@ Let's Begin...🚀
 * [Trailing Zero In Factorial](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Math/Trailing_Zero_in_Factorial)
 
 
+## ✔Day 04 :
 
+#### Continued solving questions over Arrays and basic maths.
+* [First Missing Integer](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/First_Missing_Integer)
+* [Excel Column Number](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Math/Excel_Column_Number)
+* [Grid Unique Paths](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Math/Grid_Unique_Paths)
+* [Rearrange Array](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Math/Rearrange_Array)
