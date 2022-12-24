@@ -1,0 +1,15 @@
+// problem link : https://www.interviewbit.com/problems/first-missing-integer/
+
+public class Solution {
+    public int firstMissingPositive(int[] A) {
+        int n = A.length;
+        Arrays.sort(A);
+        int temp=1;
+        
+        for(int i=0;i<n;i++){
+            if(A[i]==temp)
+            temp++;
+        }
+        return temp;
+    }
+}
