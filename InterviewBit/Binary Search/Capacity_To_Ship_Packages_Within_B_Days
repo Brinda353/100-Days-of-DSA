@@ -1,0 +1,44 @@
+// problem link : https://www.interviewbit.com/problems/capacity-to-ship-packages-within-b-days/
+
+public class Solution {
+    public int solve(int[] A, int B) {
+        int low = 0;
+        int high = 0;
+        int sum = 0;
+        int max = 0;
+        int ans = 0;
+        for(int i=0;i<A.length;i++){
+            if(A[i]>max)
+            max = A[i];
+            sum += A[i];
+        }
+        low = max;
+        high = sum;
+        while(low<=high){
+            int mid = (low+high)/2;
+            if(check(mid,A,A.length,B)){
+                ans = mid;
+                high = mid-1;
+            }
+            else
+            low = mid+1;
+        }
+        return ans;
+    }
+        
+    public boolean check(int mid,int[] A,int n,int B){
+            int sum=0;
+            int days = 1;
+            for(int i=0;i<n;i++){
+                if(sum+A[i]<=mid)
+                sum += A[i];
+                else{
+                    sum = A[i];
+                    days++;
+                }
+            }
+            if(days<=B)
+            return true;
+            return false;
+        }
+}
