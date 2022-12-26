@@ -1,0 +1,23 @@
+// problem link : https://www.interviewbit.com/problems/matrix-search/
+
+public class Solution {
+    public int searchMatrix(int[][] A, int B) {
+        int row = 0;
+        int col = A[row].length - 1;
+        while (row < A.length && col >= 0) {
+            if (A[row][col] == B) {
+                return 1;
+            }
+ 
+            // Target lies in further row
+            if (A[row][col] < B) {
+                row++;
+            }
+            // Target lies in previous column
+            else {
+                col--;
+            }
+        }
+        return 0;
+    }
+}
