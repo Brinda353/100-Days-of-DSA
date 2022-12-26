@@ -61,10 +61,28 @@ Let's Begin...🚀
 * [Trailing Zero In Factorial](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Math/Trailing_Zero_in_Factorial)
 
 
-## ✔Day 04 :
+## ✔Day 05 :
 
 #### Continued solving questions over Arrays and basic maths.
 * [First Missing Integer](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/First_Missing_Integer)
 * [Excel Column Number](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Math/Excel_Column_Number)
 * [Grid Unique Paths](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Math/Grid_Unique_Paths)
 * [Rearrange Array](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Math/Rearrange_Array)
+
+
+## ✔Day 06 :
+
+#### 1. Tried, but not accepted🙁.
+* [Highest Score](https://www.interviewbit.com/problems/highest-score/)
+* [Numbers Of Length N And Value Less Than K](https://www.interviewbit.com/problems/numbers-of-length-n-and-value-less-than-k/)
+
+#### 2. Revised all the sorting algorithms.
+
+
+## ✔Day 07 :
+
+#### 1. Revised the concept of Binary Search.
+
+#### 2. Solved questions of Searching from InterviwBit and added it to the repo.
+* [Matrix Search](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Binary%20Search/Matrix_Search)
+* [Capacity To Ship Packages Within B Days](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Binary%20Search/Capacity_To_Ship_Packages_Within_B_Days)
