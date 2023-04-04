@@ -86,3 +86,10 @@ Let's Begin...🚀
 #### 2. Solved questions of Searching from InterviwBit and added it to the repo.
 * [Matrix Search](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Binary%20Search/Matrix_Search)
 * [Capacity To Ship Packages Within B Days](https://github.com/Brinda353/100-Days-of-DSA/blob/main/InterviewBit/Binary%20Search/Capacity_To_Ship_Packages_Within_B_Days)
+
+
+## ✔Day 08 :
+
+#### 1. Re-started with some core programming concepts in JAVA.
+
+#### 2. Revised all the concepts of flowcharts, conditionals, loops, functions/methods, Arrays and ArrayLists and tried to solve some basic questions over it.
