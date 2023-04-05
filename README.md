@@ -108,3 +108,10 @@ Let's Begin...🚀
 * [How Many Numbers Are Smaller Than the Current Number](https://github.com/Brinda353/100-Days-of-DSA/blob/main/Leetcode/Array/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number)
 * [Create Target Array in the Given Order](https://github.com/Brinda353/100-Days-of-DSA/blob/main/Leetcode/Array/Create%20Target%20Array%20in%20the%20Given%20Order)
 * [Check if the Sentence Is Pangram](https://github.com/Brinda353/100-Days-of-DSA/blob/main/Leetcode/Array/Check%20if%20the%20Sentence%20Is%20Pangram)
+
+
+## ✔Day 10 :
+
+#### 1. Learnt some basic searching algorithms.
+
+#### 2. Still continued with some basic questionson of arrays and tried to switch to the medium level questions on leetcode.
