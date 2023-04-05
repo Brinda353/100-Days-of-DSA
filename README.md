@@ -90,7 +90,7 @@ Let's Begin...🚀
 
 ## ✔Day 08 :
 
-#### 1. Re-started with some core programming concepts in JAVA.
+#### 1. Re-started with some core programming concepts in JAVA💥.
 
 #### 2. Revised all the concepts of flowcharts, conditionals, loops, functions/methods, Arrays and ArrayLists and tried to solve some basic questions over it.
 
@@ -112,6 +112,6 @@ Let's Begin...🚀
 
 ## ✔Day 10 :
 
-#### 1. Learnt some basic searching algorithms.
+#### 1. Learnt some basic searching algorithms😊.
 
-#### 2. Still continued with some basic questionson of arrays and tried to switch to the medium level questions on leetcode.
+#### 2. Still continued with some basic questionson of arrays and tried to switch to the medium level questions on leetcode😎.
