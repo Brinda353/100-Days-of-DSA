@@ -115,3 +115,12 @@ Let's Begin...🚀
 #### 1. Learnt some basic searching algorithms😊.
 
 #### 2. Still continued with some basic questionson of arrays and tried to switch to the medium level questions on leetcode😎.
+
+
+## ✔Day 11 :
+
+#### 1. Revised the concept of Linear search, Binary search and Sorting techniques.
+
+#### 2. Solved questions of Searching from Leetcode and added it to the repo.
+* [Guess Number Higher or Lower](https://github.com/Brinda353/100-Days-of-DSA/blob/main/Leetcode/Searching/Guess%20Number%20Higher%20or%20Lower)
+* [First Bad Version](https://github.com/Brinda353/100-Days-of-DSA/blob/main/Leetcode/Searching/First%20Bad%20Version)
